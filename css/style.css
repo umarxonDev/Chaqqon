@@ -179,6 +179,7 @@ hr{
     margin-top: 100px;
 }
 .GraphicsImg{
+    
     display: flex;
     justify-content: center;
     padding-top: 100px;
@@ -205,8 +206,6 @@ hr{
     color: #915DFF;
 }
 .GraphicsText{
-    width: 100px;
-    height: 100px;
     display: flex;
 }
 .GraphicsTitletext{
@@ -216,6 +215,7 @@ hr{
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
+    padding-top: 50px;
 }
 .GraphicsTitleDecription{
     position: absolute;
@@ -227,6 +227,5 @@ hr{
     font-size: 14px;
     line-height: 18px;
     letter-spacing: 0.05em;
-
     color: #FFFFFF;
 }
